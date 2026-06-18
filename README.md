@@ -1,3 +1,10 @@
+> [!WARNING]
+> **This repository has been archived and is no longer maintained.**
+> The code is provided for historical reference and may contain unpatched
+> or unknown vulnerabilities. It should not be used in production systems.
+
+---
+
 # MoltenSaltPropnet
 MoltenSaltPropnet uses machine learning to predict key properties of molten salt mixtures—such as density, viscosity, thermal conductivity, and heat capacity—critical for advanced nuclear reactors. It transforms experimental data into fast, accurate models, helping researchers design safer, more efficient energy systems.
 
